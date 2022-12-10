@@ -1,0 +1,232 @@
+accessanalyzer                           
+acm-pca                                  
+amplify                                  
+apigatewaymanagementapi                  
+appconfig                                
+application-insights                     
+appstream                                
+athena                                   
+autoscaling-plans                        
+batch                                    
+ce                                       
+cloud9                                   
+cloudformation                           
+cloudhsm                                 
+cloudsearch                              
+cloudtrail                               
+codeartifact                             
+codecommit                               
+codeguruprofiler                         
+codestar                                 
+codestar-notifications                   
+cognito-idp                              
+comprehend                               
+compute-optimizer                        
+connectparticipant                       
+dataexchange                             
+datasync                                 
+detective                                
+directconnect                            
+dlm                                      
+docdb                                    
+dynamodb                                 
+ebs                                      
+ec2-instance-connect                     
+ecs                                      
+eks                                      
+elasticache                              
+elastictranscoder                        
+elbv2                                    
+es                                       
+firehose                                 
+forecast                                 
+frauddetector                            
+gamelift                                 
+globalaccelerator                        
+greengrass                               
+guardduty                                
+honeycode                                
+imagebuilder                             
+inspector                                
+iot-data                                 
+iot1click-devices                        
+iotanalytics                             
+iotevents-data                           
+iotsitewise                              
+ivs                                      
+kendra                                   
+kinesis-video-archived-media             
+kinesis-video-signaling                  
+kinesisanalyticsv2                       
+kms                                      
+lambda                                   
+lex-runtime                              
+lightsail                                
+machinelearning                          
+macie2                                   
+marketplace-catalog                      
+marketplacecommerceanalytics             
+mediaconvert                             
+mediapackage                             
+mediastore                               
+mediatailor                              
+mgh                                      
+mobile                                   
+mturk                                    
+networkmanager                           
+opsworkscm                               
+outposts                                 
+personalize-events                       
+pi                                       
+pinpoint-email                           
+polly                                    
+qldb                                     
+quicksight                               
+rds                                      
+redshift                                 
+resource-groups                          
+robomaker                                
+route53domains                           
+s3control                                
+sagemaker-a2i-runtime                    
+savingsplans                             
+sdb                                      
+securityhub                              
+service-quotas                           
+servicediscovery                         
+sesv2                                    
+signer                                   
+sms-voice                                
+sns                                      
+ssm                                      
+sso-oidc                                 
+storagegateway                           
+support                                  
+synthetics                               
+transcribe                               
+translate                                
+waf-regional                             
+workdocs                                 
+workmail                                 
+workspaces                               
+s3api                                    
+configure                                
+configservice                            
+runtime.sagemaker                        
+help                                    
+ acm                                     
+ alexaforbusiness                        
+ apigateway                              
+ apigatewayv2                            
+ application-autoscaling                 
+ appmesh                                 
+ appsync                                 
+ autoscaling                             
+ backup                                  
+ budgets                                 
+ chime                                   
+ clouddirectory                          
+ cloudfront                              
+ cloudhsmv2                              
+ cloudsearchdomain                       
+ cloudwatch                              
+ codebuild                               
+ codeguru-reviewer                       
+ codepipeline                            
+ codestar-connections                    
+ cognito-identity                        
+ cognito-sync                            
+ comprehendmedical                       
+ connect                                 
+ cur                                     
+ datapipeline                            
+ dax                                     
+ devicefarm                              
+ discovery                               
+ dms                                     
+ ds                                      
+ dynamodbstreams                         
+ ec2                                     
+ ecr                                     
+ efs                                     
+ elastic-inference                       
+ elasticbeanstalk                        
+ elb                                     
+ emr                                     
+ events                                  
+ fms                                     
+ forecastquery                           
+ fsx                                     
+ glacier                                 
+ glue                                    
+ groundstation                           
+ health                                  
+ iam                                     
+ importexport                            
+ iot                                     
+ iot-jobs-data                           
+ iot1click-projects                      
+ iotevents                               
+ iotsecuretunneling                      
+ iotthingsgraph                          
+ kafka                                   
+ kinesis                                 
+ kinesis-video-media                     
+ kinesisanalytics                        
+ kinesisvideo                            
+ lakeformation                           
+ lex-models                              
+ license-manager                         
+ logs                                    
+ macie                                   
+ managedblockchain                       
+ marketplace-entitlement                 
+ mediaconnect                            
+ medialive                               
+ mediapackage-vod                        
+ mediastore-data                         
+ meteringmarketplace                     
+ migrationhub-config                     
+ mq                                      
+ neptune                                 
+ opsworks                                
+ organizations                           
+ personalize                             
+ personalize-runtime                     
+ pinpoint                                
+ pinpoint-sms-voice                      
+ pricing                                 
+ qldb-session                            
+ ram                                     
+ rds-data                                
+ rekognition                             
+ resourcegroupstaggingapi                
+ route53                                 
+ route53resolver                         
+ sagemaker                               
+ sagemaker-runtime                       
+ schemas                                 
+ secretsmanager                          
+ serverlessrepo                          
+ servicecatalog                          
+ ses                                     
+ shield                                  
+ sms                                     
+ snowball                                
+ sqs                                     
+ sso                                     
+ stepfunctions                           
+ sts                                     
+ swf                                     
+ textract                                
+ transfer                                
+ waf                                     
+ wafv2                                   
+ worklink                                
+ workmailmessageflow                     
+ xray                                    
+ s3                                      
+ deploy                                  
+ opsworks-cm                             
+ history                                 
+

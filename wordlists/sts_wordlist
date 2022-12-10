@@ -1,0 +1,8 @@
+assume-role
+assume-role-with-saml
+assume-role-with-web-identity
+decode-authorization-message
+get-access-key-info
+get-caller-identity
+get-federation-token
+get-session-token
